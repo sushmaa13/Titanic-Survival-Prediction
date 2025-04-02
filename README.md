@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction - ML Web App
+🚢 Titanic Survival Prediction - ML Web App(a CODSOFT project)
 
 This project predicts **whether a passenger on the Titanic would survive** based on their information.
 
