@@ -1,4 +1,4 @@
-🚢 Titanic Survival Prediction - ML Web App(a CODSOFT project)
+🚢 Titanic Survival Prediction - ML Web App
 
 This project predicts **whether a passenger on the Titanic would survive** based on their information.
 
@@ -15,4 +15,5 @@ How to Run
    pip install -r requirements.txt
 Run the web app:-
 python -m streamlit run app.py
+
 
